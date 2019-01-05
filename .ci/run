@@ -3,4 +3,7 @@
 echo "Hello, world!"
 sleep 1
 echo "Done" >&2
+
+echo "foo" > repo/foo
+
 exit 0
