@@ -1,1 +1,5 @@
-Status: 0
+Exit: 0
+
+Repo: github.com/jodersky/akka-serial
+Logs: https://ci.crashbox.io/github.com/jodersky/akka-serial/sha1/logs
+Url: https://ci.crashbox.io/github.com/jodersky/akka-serial/sha1
